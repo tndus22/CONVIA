@@ -1,0 +1,6 @@
+{
+  "name": "Convia",
+  "description": "A local, rule-based collaboration health analysis platform that processes Slack chats, KakaoTalk backups, Notion boards, and GitHub activity without generative AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
