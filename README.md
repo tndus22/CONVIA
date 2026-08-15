@@ -8,7 +8,7 @@ CONVIA는 Slack, KakaoTalk, Notion, GitHub 등 팀의 업무·커뮤니케이션
 
 ---
 
-## ✨ 주요 기능
+## 주요 기능
 
 ###  Team Dashboard
 팀 전체의 협업 상태를 한눈에 확인할 수 있도록 주요 지표와 분석 결과를 시각화합니다.
