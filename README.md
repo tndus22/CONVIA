@@ -10,27 +10,27 @@ CONVIA는 Slack, KakaoTalk, Notion, GitHub 등 팀의 업무·커뮤니케이션
 
 ## ✨ 주요 기능
 
-### 📊 Team Dashboard
+###  Team Dashboard
 팀 전체의 협업 상태를 한눈에 확인할 수 있도록 주요 지표와 분석 결과를 시각화합니다.
 
-### 👥 참여 균등성 분석
+###  참여 균등성 분석
 구성원별 메시지 및 활동량을 비교해 특정 구성원에게 참여가 편중되어 있는지 확인합니다.
 
-### 📋 업무 편중도 분석
+###  업무 편중도 분석
 Notion 업무 기록과 GitHub 활동 등을 기반으로 업무가 특정 구성원에게 집중되어 있는지 분석합니다.
 
-### ⚠️ 갈등 지수
+###  갈등 지수
 마찰, 무응답, 과부하 등 협업 과정에서 나타날 수 있는 위험 신호를 규칙 기반으로 탐지합니다.
 
-### 💬 소통 온도
+###  소통 온도
 긍정·부정 표현의 빈도를 기반으로 팀 커뮤니케이션의 분위기를 정량화합니다.
 
-### 🔍 Rule-based Analysis Engine
+###  Rule-based Analysis Engine
 분석 로직을 별도의 엔진으로 분리해 데이터 처리와 UI를 독립적으로 구성했습니다.
 
 ---
 
-## 🧠 분석 방식
+##  분석 방식
 
 ```text
 Slack / KakaoTalk / Notion / GitHub
@@ -59,7 +59,7 @@ CONVIA의 분석 엔진은 `analysis-engine.ts`에 구현되어 있습니다.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | 분야 | 기술 |
 |---|---|
@@ -100,7 +100,7 @@ CONVIA/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Requirements
 
@@ -137,7 +137,7 @@ npm run build
 
 ---
 
-## 🔐 Environment Variables
+##  Environment Variables
 
 Slack 연동 기능을 사용하는 경우 환경변수를 설정할 수 있습니다.
 
@@ -155,7 +155,7 @@ Copy-Item .env.example .env
 
 ---
 
-## 🎯 Design Principles
+##  Design Principles
 
 ### 1. Deterministic Analysis
 
@@ -200,6 +200,4 @@ CONVIA는 **React + TypeScript 기반의 웹 애플리케이션 구현**과 함�
 
 ---
 
-## 📄 License
 
-개인 포트폴리오 및 학습 목적으로 작성된 프로젝트입니다.
